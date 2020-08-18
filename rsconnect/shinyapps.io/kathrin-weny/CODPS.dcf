@@ -1,0 +1,12 @@
+name: CODPS
+title: CODPS
+username:
+account: kathrin-weny
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2618488
+bundleId: 3499353
+url: https://kathrin-weny.shinyapps.io/CODPS/
+when: 1597101191.85815
+asMultiple: FALSE
+asStatic: FALSE
